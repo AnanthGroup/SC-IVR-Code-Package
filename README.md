@@ -5,8 +5,8 @@ Documentation for the program is in development.
 
 See the following references for SC-IVR and MQC-IVR theory:
 
-S.V.Antipov, Z.Ye, and N.Ananth. J.Chem.Phys. 142, 184102 (2015)
+S.V. Antipov, Z. Ye, and N.Ananth. J. Chem. Phys. 142, 184102 (2015)
 
-W.H.Miller,J.Phys.Che.A 105, 2942 (2001)
+W.H. Miller, J. Phys. Chem. A 105, 2942 (2001)
 
 Created by Matthew S. Church
