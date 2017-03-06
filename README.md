@@ -1,7 +1,7 @@
 # SC-IVR-Code-Package
 The SC-IVR Code Package is a FORTRAN-based program that contains various ways of computing the real-time correlation function under the semiclassical initial value representation.
 
-Documentation for the program is in development.
+Documentation now available.
 
 See the following references for SC-IVR and MQC-IVR theory:
 
