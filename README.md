@@ -7,6 +7,7 @@ Created by Matthew S. Church.
 
 See the following references for SC-IVR and MQC-IVR theory:
 
+-M. S. Church, T. J. H. Hele, G. S. Ezra, and N. Ananth. J. Chem. Phys. 148, 102326 (2018)
 -M. S. Church, S. V. Antipov, and N. Ananth. J. Chem. Phys. 146, 234104 (2017)
 -S. V. Antipov, Z. Ye, and N. Ananth. J. Chem. Phys. 142, 184102 (2015)
 -W. H. Miller, J. Phys. Chem. A 105, 2942 (2001)
